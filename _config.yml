@@ -5,12 +5,7 @@
 # Where things are
 source:       .
 destination:  ./_site
-plugins:      
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
+plugins:      ./_plugins
 layouts:      ./_layouts
 paginate:     8
 
